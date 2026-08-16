@@ -4,7 +4,11 @@
 
 ### Data Science • Machine Learning • Deep Learning • MLOps • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Student+at+IIT+Madras;Machine+Learning+Enthusiast;MLOps+Learner;Full+Stack+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Abhishek+Dutta;Diploma+Student+at+IIT+Madras;AI+%7C+Machine+Learning+%7C+Deep+Learning;MLOps+%7C+Cloud+Computing+%7C+Data+Science;Full+Stack+Developer;Building+Intelligent+Systems+for+Real-World+Problems;Open+to+Learning%2C+Research+and+Collaboration" alt="Typing SVG" />
+
+</div>
 
 </div>
 
