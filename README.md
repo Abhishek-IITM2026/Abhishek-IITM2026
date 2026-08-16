@@ -4,7 +4,7 @@
 
 ### Data Science • Machine Learning • Deep Learning • MLOps • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Diploma+Student+at+IIT+Madras;Machine+Learning+Enthusiast;MLOps+Learner;Full+Stack+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Student+at+IIT+Madras;Machine+Learning+Enthusiast;MLOps+Learner;Full+Stack+Developer;Building+AI-Powered+Solutions" alt="Typing SVG" />
 
 </div>
 
