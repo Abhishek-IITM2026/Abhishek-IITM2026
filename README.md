@@ -123,8 +123,8 @@ Git • GitHub • Jupyter Notebook • Google Colab • VS Code • Linux
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-IITM2026&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-IITM2026&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhishek-IITM2026&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-IITM2026&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
