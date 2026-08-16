@@ -4,7 +4,7 @@
 
 ### AI • Machine Learning • Deep Learning • MLOps • Cloud • Full-Stack Development
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Diploma+Student+at+IIT+Madras;Machine+Learning+%26+Deep+Learning+Practitioner;Cloud+and+MLOps+Enthusiast;Full+Stack+Developer;Building+Scalable+AI-Powered+Solutions;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.comfont=JetBrains+Mono&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=1000&lines=Diploma+Student+at+IIT+Madras;Machine+Learning+%26+Deep+Learning+Practitioner;Cloud+and+MLOps+Enthusiast;Full+Stack+Developer;Building+Scalable+AI-Powered+Solutions;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
 </div>
 
