@@ -69,6 +69,14 @@
 
 ## 🏆 Featured Projects
 
+### 🎥 AI Surveillance & Emergency Detection System
+- Developing an AI-powered surveillance system designed for integration with existing CCTV infrastructure.
+- Uses YOLO-based models for person detection and facial analysis to identify potentially suspicious or abnormal activities.
+- Working on face tracking and recognition under challenging **low-resolution CCTV footage**.
+- Experimented with model training and **face embeddings using FaceNet-style models** to improve recognition robustness.
+- Developing an audio-based emergency detection pipeline using **CNNs, Fourier Transformations, and MFCCs** to identify potentially alarming events.
+- Designed the system to automatically trigger notifications when predefined emergency signals are detected.
+
 ### 🛡️ System Threat Forecaster
 - Built ensemble machine learning models for malware prediction.
 - Applied feature engineering, SMOTEENN, Optuna, and model stacking.
