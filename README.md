@@ -14,9 +14,9 @@
 ## 🚀 About Me
 
 - 🎓 Diploma Student at **IIT Madras**
-- 🤖 Passionate about **Machine Learning, Deep Learning, and AI Systems**
+- 🤖 Passionate about **Machine Learning, Deep Learning,Transformers, Hugging Face and AI Systems**
 - ☁️ Exploring **MLOps, Google Cloud, Vertex AI, Kubernetes, and CI/CD**
-- 🌐 Building scalable web applications using **Flask**
+- 🌐 Building scalable web applications using **Flask, Javascript, Vue.js, React.js and Node.js**
 - 📊 Interested in Data Analytics, Predictive Modeling, and Business Intelligence
 - 🔍 Love solving real-world problems through data and software
 - 📚 Continuously learning new technologies and frameworks
